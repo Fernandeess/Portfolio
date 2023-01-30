@@ -17,7 +17,7 @@
 //     , tempo);
 
 
-var imagens2 = [["assets/images/IndexGot.png", "assets/images/CadastroGot.png", "assets/images/HomeLogadoGot.png", "assets/images/PerfilGot.png", "assets/images/QuizGot.png", "assets/images/ResultadoGot.png"], ["assets/images/indexDatafound.png", "assets/images/cadastrodatafound.png", "assets/images/loginDataFound.png", "assets/images/dashboard.png"]];
+var imagens2 = [["assets/images/IndexGot.png", "assets/images/CadastroGot.png", "assets/images/HomeLogadoGot.png", "assets/images/PerfilGot.png", "assets/images/QuizGot.png", "assets/images/ResultadoGot.png"], ["assets/images/indexDatafound.png", "assets/images/cadastrodatafound.png", "assets/images/loginDatafound.png", "assets/images/dashboard.png"]];
 
 function changeIMG(project, images, time) {
 
