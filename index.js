@@ -24,7 +24,7 @@ function changeIMG(project, images, time) {
     var i = 0;
     project.src = images[0];
     var intervalo = setInterval(() => {
-        if (i == 4) {
+        if (i == images.length) {
             i = 0;
         }
 
